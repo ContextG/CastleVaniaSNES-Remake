@@ -1,0 +1,779 @@
+fileFormatVersion: 2
+guid: 9d4cb8abe2a8a994a84b4c114a2174ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1759546607720994125
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_0
+  - first:
+      213: -6072308802324384190
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_1
+  - first:
+      213: -6155893734876270013
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_2
+  - first:
+      213: 826641599323676972
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_3
+  - first:
+      213: -3247867346426114419
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_4
+  - first:
+      213: 7860224880839856269
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_5
+  - first:
+      213: -2627377761685267670
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_6
+  - first:
+      213: 4239700439102181301
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_7
+  - first:
+      213: -714168574045437940
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_8
+  - first:
+      213: -4702376082378141172
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_9
+  - first:
+      213: -1371806779464756190
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_10
+  - first:
+      213: 3393040497426917714
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_11
+  - first:
+      213: 4578944282916853280
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_12
+  - first:
+      213: -2690742228030728193
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_13
+  - first:
+      213: 8422341690829585151
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_14
+  - first:
+      213: 8123493680321682070
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_15
+  - first:
+      213: 9209575239287539044
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_16
+  - first:
+      213: 4779257110422577039
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_17
+  - first:
+      213: 3325007674740818022
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_18
+  - first:
+      213: -7100813933260592923
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_19
+  - first:
+      213: 5506869941445448429
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_20
+  - first:
+      213: -5394733998523516156
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_21
+  - first:
+      213: -6342131783323596269
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_22
+  - first:
+      213: 1112723560915165278
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_23
+  - first:
+      213: -8042798758089344580
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_24
+  - first:
+      213: 8196941154166507628
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_0
+  - first:
+      213: -1926007019006428439
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_1
+  - first:
+      213: -7280857466059354725
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_2
+  - first:
+      213: -8667149777127795924
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_3
+  - first:
+      213: -3913271940666794151
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_4
+  - first:
+      213: -6605166103957323519
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_5
+  - first:
+      213: 36340055356368931
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_6
+  - first:
+      213: -8449263587843681504
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_7
+  - first:
+      213: -5580759588836027037
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_8
+  - first:
+      213: 3082212368952956719
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_9
+  - first:
+      213: 6822145712386734383
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_10
+  - first:
+      213: 7916223790316512787
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_11
+  - first:
+      213: 7700881392920117321
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_12
+  - first:
+      213: -1192731145384510764
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_13
+  - first:
+      213: 8848921445631909801
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_14
+  - first:
+      213: -1432893982210705533
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_15
+  - first:
+      213: -4278259126581486901
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_16
+  - first:
+      213: 8131407755155267997
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_17
+  - first:
+      213: -8713202146749491825
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_18
+  - first:
+      213: 8915073549888869417
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_19
+  - first:
+      213: 4084048481993993592
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_20
+  - first:
+      213: 3561408310446731456
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_21
+  - first:
+      213: -928520228849765536
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_22
+  - first:
+      213: 3977542436385089945
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_23
+  - first:
+      213: 8404185556915949084
+    second: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 81
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6800eaec8261c170800000000000000
+      internalID: 8196941154166507628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 112
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea763512d27545e0800000000000000
+      internalID: -1926007019006428439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 112
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d0843d5b235fa90800000000000000
+      internalID: -7280857466059354725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 112
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23113fb23918b780800000000000000
+      internalID: -8667149777127795924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 112
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f5d0347e341b9c0800000000000000
+      internalID: -3913271940666794151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 112
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1014c239c6cb554a0800000000000000
+      internalID: -6605166103957323519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 112
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32862aa761b118000800000000000000
+      internalID: 36340055356368931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 91
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0235fe0788f2eba80800000000000000
+      internalID: -8449263587843681504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 95
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365d29ad8b82d82b0800000000000000
+      internalID: -5580759588836027037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 93
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2791cdb1d736ca20800000000000000
+      internalID: 3082212368952956719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 97
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f3c051612dae50800000000000000
+      internalID: 6822145712386734383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 97
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316ef4868931cdd60800000000000000
+      internalID: 7916223790316512787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 72
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9404b6a63d60fda60800000000000000
+      internalID: 7700881392920117321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 75
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dabfc6b751927fe0800000000000000
+      internalID: -1192731145384510764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 75
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afd934db2fadca70800000000000000
+      internalID: 8848921445631909801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 75
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3873985d3865d1ce0800000000000000
+      internalID: -1432893982210705533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 21
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca9907ddf190a4c0800000000000000
+      internalID: -4278259126581486901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e2e1754098d070800000000000000
+      internalID: 8131407755155267997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8553d2efcc741780800000000000000
+      internalID: -8713202146749491825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 59
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9245b97d824b8bb70800000000000000
+      internalID: 8915073549888869417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 18
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87da9b6c4747da830800000000000000
+      internalID: 4084048481993993592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 17
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c03d4c3df9ac6130800000000000000
+      internalID: 3561408310446731456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 25
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06335a875cb3d13f0800000000000000
+      internalID: -928520228849765536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 23
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99966cf95c1133730800000000000000
+      internalID: 3977542436385089945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e817a9c3aa1a470800000000000000
+      internalID: 8404185556915949084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

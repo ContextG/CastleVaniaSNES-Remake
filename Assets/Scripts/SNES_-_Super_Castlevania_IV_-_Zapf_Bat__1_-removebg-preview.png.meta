@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: e808a82558424114b93d705d6c7923e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2666427033273981437
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_0
+  - first:
+      213: -5728643745186418378
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_1
+  - first:
+      213: -2800437058974688479
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_2
+  - first:
+      213: -7024130876633272716
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_3
+  - first:
+      213: 8494919361802208426
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_4
+  - first:
+      213: -5806113941696458968
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_5
+  - first:
+      213: 4312424231405694096
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_6
+  - first:
+      213: 4222963775969905506
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_7
+  - first:
+      213: 4363220521077768738
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_8
+  - first:
+      213: -3510403079188506004
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_9
+  - first:
+      213: 7545533984907534604
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_10
+  - first:
+      213: -239137884371154127
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_11
+  - first:
+      213: 1883366418352477517
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_12
+  - first:
+      213: 8961601567189105683
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_13
+  - first:
+      213: 2176690354231936034
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_14
+  - first:
+      213: 5698847681358838324
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_15
+  - first:
+      213: -8174610590352106997
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_16
+  - first:
+      213: 8786382345201715845
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_17
+  - first:
+      213: -3368022116689753032
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_18
+  - first:
+      213: -2175599659305577038
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_19
+  - first:
+      213: 3102532275778865677
+    second: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 93
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306a4369db2fefad0800000000000000
+      internalID: -2666427033273981437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 95
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631766b8dd4cf70b0800000000000000
+      internalID: -5728643745186418378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 86
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b59fb0559d229d0800000000000000
+      internalID: -2800437058974688479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 106
+        width: 125
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eab62ee26458e90800000000000000
+      internalID: -7024130876633272716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 118
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa40fcbc62404e570800000000000000
+      internalID: 8494919361802208426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 117
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f4db3d12a8c6fa0800000000000000
+      internalID: -5806113941696458968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 123
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c29b18dfec8db30800000000000000
+      internalID: 4312424231405694096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 117
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b47061e2bfa9a30800000000000000
+      internalID: 4222963775969905506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 116
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222098352f54d8c30800000000000000
+      internalID: 4363220521077768738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 125
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a18869ffa884fc0800000000000000
+      internalID: -3510403079188506004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 119
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c012d0b6e2f17b860800000000000000
+      internalID: 7545533984907534604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 119
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b08b57c596eacf0800000000000000
+      internalID: -239137884371154127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 123
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d459ccb67cf032a10800000000000000
+      internalID: 1883366418352477517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 123
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cf3ee05210e5c70800000000000000
+      internalID: 8961601567189105683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 89
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22483063858253e10800000000000000
+      internalID: 2176690354231936034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 89
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ab37cb5cf561f40800000000000000
+      internalID: 5698847681358838324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 89
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a9ae0aaf2fd8e80800000000000000
+      internalID: -8174610590352106997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 16
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a0382d0308fe970800000000000000
+      internalID: 8786382345201715845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 14
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c4c0bbab16241d0800000000000000
+      internalID: -3368022116689753032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 15
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b551adf2a7bec1e0800000000000000
+      internalID: -2175599659305577038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0acbf9baa86e0b20800000000000000
+      internalID: 3102532275778865677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

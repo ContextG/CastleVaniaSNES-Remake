@@ -1,0 +1,345 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.27f1 (e759542391ea) revision 15161684'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22581) 64bit Professional' Language: 'en' Physical Memory: 32680 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+J:\Unity\2020.3.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+L:/Class files/VGP123 CrossPlatform/VGP123_Abbas_SyedFarukh-main/VGP123_Abbas_SyedFarukh-main
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62120
+Successfully changed project path to: L:/Class files/VGP123 CrossPlatform/VGP123_Abbas_SyedFarukh-main/VGP123_Abbas_SyedFarukh-main
+L:/Class files/VGP123 CrossPlatform/VGP123_Abbas_SyedFarukh-main/VGP123_Abbas_SyedFarukh-main
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path J:/Unity/2020.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path L:/Class files/VGP123 CrossPlatform/VGP123_Abbas_SyedFarukh-main/VGP123_Abbas_SyedFarukh-main/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   30.0.15.1215
+Initialize mono
+Mono path[0] = 'J:/Unity/2020.3.27f1/Editor/Data/Managed'
+Mono path[1] = 'J:/Unity/2020.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'J:/Unity/2020.3.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56864
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: J:/Unity/2020.3.27f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: J:/Unity/2020.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001994 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 26.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.759 seconds
+Domain Reload Profiling:
+	ReloadAssembly (759ms)
+		BeginReloadAssembly (90ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (575ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (198ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (46ms)
+			SetupLoadedEditorAssemblies (201ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (26ms)
+				BeforeProcessingInitializeOnLoad (21ms)
+				ProcessInitializeOnLoadAttributes (110ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000469 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.999 seconds
+Domain Reload Profiling:
+	ReloadAssembly (999ms)
+		BeginReloadAssembly (180ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (743ms)
+			LoadAssemblies (134ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (232ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (240ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (84ms)
+				ProcessInitializeOnLoadAttributes (137ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 992 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 52.3 MB.
+System memory in use after: 52.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1436.
+Total: 4.416200 ms (FindLiveObjects: 0.386400 ms CreateObjectMapping: 0.035000 ms MarkObjects: 3.893400 ms  DeleteObjects: 0.099500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview.png
+  artifactKey: Guid(9d4cb8abe2a8a994a84b4c114a2174ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SNES_-_Super_Castlevania_IV_-_Medusa__1_-removebg-preview.png using Guid(9d4cb8abe2a8a994a84b4c114a2174ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03c644bde7a24b21c50e5ed4d4cb6cd6') in 0.251836 seconds 
+  Import took 0.254204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.809114 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5314199399114521f266b012ec0e63e9') in 0.002209 seconds 
+  Import took 0.003999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2389.863345 seconds.
+  path: Assets/Scripts/SNES - Super Castlevania IV - Zapf Bat.png
+  artifactKey: Guid(0c3fd82fa58e4a149b390be02fa94414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SNES - Super Castlevania IV - Zapf Bat.png using Guid(0c3fd82fa58e4a149b390be02fa94414) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b0c37f5a6169c8183facfb821c5f25') in 0.016839 seconds 
+  Import took 0.020554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Scripts/SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview.png
+  artifactKey: Guid(e808a82558424114b93d705d6c7923e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview.png using Guid(e808a82558424114b93d705d6c7923e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d12ac807a98bcfa3f9e3c9693abea00') in 0.071014 seconds 
+  Import took 0.072930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.448875 seconds.
+  path: Assets/Scripts/SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_0.controller
+  artifactKey: Guid(4bf450edebefb2d4b839af71099b06a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SNES_-_Super_Castlevania_IV_-_Zapf_Bat__1_-removebg-preview_0.controller using Guid(4bf450edebefb2d4b839af71099b06a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32db509253262fb1ffa831d04a0cf838') in 0.012541 seconds 
+  Import took 0.014506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.237783 seconds.
+  path: Assets/Scripts/Bat.anim
+  artifactKey: Guid(609b68fad26b6384dbc1bae693ab3a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Bat.anim using Guid(609b68fad26b6384dbc1bae693ab3a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4babb0b788706981b21d580facaaeeb') in 0.005126 seconds 
+  Import took 0.007442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.543500 seconds.
+  path: Assets/Scripts/Player
+  artifactKey: Guid(24b6b7c83d9e718449511d5d6b3f67f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player using Guid(24b6b7c83d9e718449511d5d6b3f67f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a14f7a8a0edb98fa26f90c030eb9916a') in 0.001516 seconds 
+  Import took 0.003906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.565173 seconds.
+  path: Assets/Scripts/Misc
+  artifactKey: Guid(4b7fac48a79ea2142bf500d938fef63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Misc using Guid(4b7fac48a79ea2142bf500d938fef63b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503f9535170183ee838eebffab53f8a0') in 0.001845 seconds 
+  Import took 0.004102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.484273 seconds.
+  path: Assets/Scripts/Player/Knife 1.prefab
+  artifactKey: Guid(4333d7857817ae346a02cd089f73680e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/Knife 1.prefab using Guid(4333d7857817ae346a02cd089f73680e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d1411c0288ea0a7dee1afcf7017d42') in 0.054568 seconds 
+  Import took 0.056769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Scripts/Player/Knife.prefab
+  artifactKey: Guid(f5129de25e0878b4094dcd589041fa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/Knife.prefab using Guid(f5129de25e0878b4094dcd589041fa1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4745e3866f0404767f34fef3646edd0b') in 0.028855 seconds 
+  Import took 0.030686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.161828 seconds.
+  path: Assets/Scripts/Player/PlayerAttack.cs
+  artifactKey: Guid(ffa1878f200e2d24dbc18bfa8b0ea19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/PlayerAttack.cs using Guid(ffa1878f200e2d24dbc18bfa8b0ea19d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6710939bead5132f37bb6fe026b95d9') in 0.110586 seconds 
+  Import took 0.112364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.690827 seconds.
+  path: Assets/Scripts/Player/PlayerMovement.cs
+  artifactKey: Guid(cd6fe9c4956b20541bafb5aaa1156f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player/PlayerMovement.cs using Guid(cd6fe9c4956b20541bafb5aaa1156f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8f61818efa116b1f364125a7a9c319') in 0.001270 seconds 
+  Import took 0.002976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.600491 seconds.
+  path: Assets/Sprites/Player/Ball.prefab
+  artifactKey: Guid(d29eace320c80fd4b950b8ea6c3d9169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/Ball.prefab using Guid(d29eace320c80fd4b950b8ea6c3d9169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9b4ffb939464bd95870d89c50b2b151') in 0.013780 seconds 
+  Import took 0.016378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Sprites/Player/SimonBelmont.png
+  artifactKey: Guid(b236bf8e91fa26a4fb1369f634a9eacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/SimonBelmont.png using Guid(b236bf8e91fa26a4fb1369f634a9eacc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af01dd3a00053669468f9ad6973ebadf') in 0.231662 seconds 
+  Import took 0.233514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Sprites/Player/SNES - Super Castlevania IV - Items.png
+  artifactKey: Guid(71920b94d5626d04db3fdf563692583c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player/SNES - Super Castlevania IV - Items.png using Guid(71920b94d5626d04db3fdf563692583c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2749898017b5bd3f39bfba2117f98e11') in 0.075714 seconds 
+  Import took 0.078167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.526204 seconds.
+  path: Assets/Sprites/Background/SNES - Super Castlevania IV - Stage 01 Castle Entrance.png
+  artifactKey: Guid(65c1cae4440b57e47bbf58d636229d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Background/SNES - Super Castlevania IV - Stage 01 Castle Entrance.png using Guid(65c1cae4440b57e47bbf58d636229d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e477e5d7c151d079e0e25528181dc857') in 0.079415 seconds 
+  Import took 0.081844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.827866 seconds.
+  path: Assets/Sprites/Anim/27088-removebg-preview.png
+  artifactKey: Guid(98ab02a7f863dfe408024699c39a0e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Anim/27088-removebg-preview.png using Guid(98ab02a7f863dfe408024699c39a0e2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b58b2e319a86761202ecc29d7b46354') in 0.313229 seconds 
+  Import took 0.315770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Sprites/Anim/SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview.png
+  artifactKey: Guid(e9b6a33bc1a53904a9d4ec5ae20b5365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Anim/SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview.png using Guid(e9b6a33bc1a53904a9d4ec5ae20b5365) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224f876ac44668ea56c52e4c0fdb92e5') in 0.097459 seconds 
+  Import took 0.099691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.014598 seconds.
+  path: Assets/Sprites/Anim/Player
+  artifactKey: Guid(574b16096dfe390488a88605356f537b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Anim/Player using Guid(574b16096dfe390488a88605356f537b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '771381c52ebece56a89f72c4706c58a1') in 0.001162 seconds 
+  Import took 0.003189 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000820 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.841 seconds
+Domain Reload Profiling:
+	ReloadAssembly (842ms)
+		BeginReloadAssembly (172ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (606ms)
+			LoadAssemblies (98ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (196ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (200ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (117ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 987 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.2 MB.
+System memory in use after: 56.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1950.
+Total: 3.010000 ms (FindLiveObjects: 0.178700 ms CreateObjectMapping: 0.028800 ms MarkObjects: 2.779200 ms  DeleteObjects: 0.021400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

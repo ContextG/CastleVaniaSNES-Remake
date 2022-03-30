@@ -1,0 +1,752 @@
+fileFormatVersion: 2
+guid: e9b6a33bc1a53904a9d4ec5ae20b5365
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6668406768937933298
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_0
+  - first:
+      213: -6439245014805558876
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_1
+  - first:
+      213: -8248440701801207002
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_2
+  - first:
+      213: -8053189948065927258
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_3
+  - first:
+      213: -136831056801347028
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_4
+  - first:
+      213: -4361470963366145868
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_5
+  - first:
+      213: -5903108464252011428
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_6
+  - first:
+      213: -4977380949518451810
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_7
+  - first:
+      213: 436600353134091177
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_8
+  - first:
+      213: 6129262013480190306
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_9
+  - first:
+      213: -3070931386980413832
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_10
+  - first:
+      213: -92681828700658699
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_11
+  - first:
+      213: -6181212474673132514
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_12
+  - first:
+      213: -4215352801047133543
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_13
+  - first:
+      213: 8172179872153522390
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_14
+  - first:
+      213: 1111518607388839843
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_15
+  - first:
+      213: -2302359777359024258
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_16
+  - first:
+      213: 5879414252861947113
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_17
+  - first:
+      213: -4278607788025304741
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_18
+  - first:
+      213: 2286945651749694239
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_19
+  - first:
+      213: -9112767153113489108
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_20
+  - first:
+      213: 8223590230070438891
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_21
+  - first:
+      213: -8322849138920623829
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_22
+  - first:
+      213: 6281186639928548396
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_23
+  - first:
+      213: 6247658209120213170
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_24
+  - first:
+      213: -8835018437170885026
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_25
+  - first:
+      213: 922530463399479454
+    second: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_26
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e4a7df5f0573a0800000000000000
+      internalID: -6668406768937933298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 159
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a94fce86c433a6a0800000000000000
+      internalID: -6439245014805558876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 87
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62be34242e6a78d80800000000000000
+      internalID: -8248440701801207002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 87
+        width: 132
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afa8cce8625d3090800000000000000
+      internalID: -8053189948065927258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 87
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a4d19f0e0e91ef0800000000000000
+      internalID: -136831056801347028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 87
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b051625441f873c0800000000000000
+      internalID: -4361470963366145868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 87
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c38a5b022f31ea0800000000000000
+      internalID: -5903108464252011428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 85
+        width: 426
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bf720d56acceab0800000000000000
+      internalID: -4977380949518451810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 128
+        width: 55
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab1e5d35bd1f0600800000000000000
+      internalID: 436600353134091177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 87
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26148c8b3538f0550800000000000000
+      internalID: 6129262013480190306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 87
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e4f6d8c2cd165d0800000000000000
+      internalID: -3070931386980413832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 53
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e92b2e5ab6bef0800000000000000
+      internalID: -92681828700658699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c05e5f00ce73aa0800000000000000
+      internalID: -6181212474673132514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 13
+        width: 45
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99243aa16fe0085c0800000000000000
+      internalID: -4215352801047133543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 13
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0de40bb4a696170800000000000000
+      internalID: 8172179872153522390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 13
+        width: 118
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af06aac848ec6f00800000000000000
+      internalID: 1111518607388839843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 14
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f2e5d1bff5c00e0800000000000000
+      internalID: -2302359777359024258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 13
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec743dcc10e79150800000000000000
+      internalID: 5879414252861947113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 58
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592885c2e45f94c0800000000000000
+      internalID: -4278607788025304741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 13
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b2a2914fcdcbf10800000000000000
+      internalID: 2286945651749694239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 13
+        width: 89
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a2d54e82f88180800000000000000
+      internalID: -9112767153113489108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 56
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beba8b96ebf002270800000000000000
+      internalID: 8223590230070438891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 55
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b217873fdcc4f7c80800000000000000
+      internalID: -8322849138920623829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 13
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cded848f14b2750800000000000000
+      internalID: 6281186639928548396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8d9a82a0424b650800000000000000
+      internalID: 6247658209120213170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 13
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e07649a85b36580800000000000000
+      internalID: -8835018437170885026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Super_Castlevania_IV_-_Rowdain__1_-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 13
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e980765919c7dcc00800000000000000
+      internalID: 922530463399479454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
